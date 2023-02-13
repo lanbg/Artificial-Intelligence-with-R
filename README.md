@@ -1,4 +1,5 @@
-# machine-learning-with-R
+# Artificial-Intelligence-with-R
+
 Técnicas de inteligência artificial e computacional, usando a linguagem R.
 
 Machine learning techniques using the R language.
